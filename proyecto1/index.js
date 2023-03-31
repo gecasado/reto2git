@@ -1,5 +1,5 @@
-function suma (op1, op2){
-    let resultado = op1 + op2;
+function suma (op1, op2,op3){
+    let resultado = op1 + op2 + op3;
     console.log(resultado);
 }
 function resta (op1, op2){
